@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\aysey\OneDrive\Masaüstü\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
