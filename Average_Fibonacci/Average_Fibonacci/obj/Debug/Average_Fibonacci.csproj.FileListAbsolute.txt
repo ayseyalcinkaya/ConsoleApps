@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\bin\Debug\Average_Fibonacci.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\bin\Debug\Average_Fibonacci.exe
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\bin\Debug\Average_Fibonacci.pdb
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\obj\Debug\Average_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\obj\Debug\Average_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\obj\Debug\Average_Fibonacci.exe
+C:\Users\aysey\OneDrive\Masaüstü\Average_Fibonacci\Average_Fibonacci\obj\Debug\Average_Fibonacci.pdb
