@@ -1,0 +1,14 @@
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\ConsoleApps\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
