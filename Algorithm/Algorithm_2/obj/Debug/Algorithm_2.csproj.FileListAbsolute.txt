@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\bin\Debug\Algorithm_2.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\bin\Debug\Algorithm_2.exe
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\bin\Debug\Algorithm_2.pdb
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.exe
+C:\Users\aysey\OneDrive\Masaüstü\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.pdb
