@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\bin\Debug\KarakterDegistirme.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\bin\Debug\KarakterDegistirme.exe
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\bin\Debug\KarakterDegistirme.pdb
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.exe
+C:\Users\aysey\OneDrive\Masaüstü\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.pdb
