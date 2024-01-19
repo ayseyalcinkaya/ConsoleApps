@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\bin\Debug\VotingApp.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\bin\Debug\VotingApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\bin\Debug\VotingApp.pdb
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\obj\Debug\VotingApp.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\obj\Debug\VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\obj\Debug\VotingApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\VotingApp\VotingApp\obj\Debug\VotingApp.pdb
