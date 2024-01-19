@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\bin\Debug\SessizHarf.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\bin\Debug\SessizHarf.exe
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\bin\Debug\SessizHarf.pdb
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\obj\Debug\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\obj\Debug\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\obj\Debug\SessizHarf.exe
+C:\Users\aysey\OneDrive\Masaüstü\SessizHarf\SessizHarf\obj\Debug\SessizHarf.pdb
