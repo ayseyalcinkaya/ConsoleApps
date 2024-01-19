@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\bin\Debug\CircleDrawing.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\bin\Debug\CircleDrawing.exe
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\bin\Debug\CircleDrawing.pdb
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\obj\Debug\CircleDrawing.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\obj\Debug\CircleDrawing.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\obj\Debug\CircleDrawing.exe
+C:\Users\aysey\OneDrive\Masaüstü\CircleDrawing\CircleDrawing\obj\Debug\CircleDrawing.pdb
