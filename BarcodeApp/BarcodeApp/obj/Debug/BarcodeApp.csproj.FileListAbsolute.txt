@@ -1,0 +1,12 @@
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\BarcodeApp.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\BarcodeApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\BarcodeApp.pdb
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\zxing.dll
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\zxing.presentation.dll
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\zxing.xml
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\bin\Debug\zxing.presentation.xml
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.csproj.CopyComplete
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.exe
+C:\Users\aysey\OneDrive\Masaüstü\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.pdb
