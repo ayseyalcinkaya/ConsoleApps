@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\bin\Debug\ATM_App.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\bin\Debug\ATM_App.exe
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\bin\Debug\ATM_App.pdb
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\obj\Debug\ATM_App.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\obj\Debug\ATM_App.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\obj\Debug\ATM_App.exe
+C:\Users\aysey\OneDrive\Masaüstü\ATM_App\ATM_App\obj\Debug\ATM_App.pdb
