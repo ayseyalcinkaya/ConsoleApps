@@ -1,0 +1,7 @@
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\bin\Debug\KarakterTerstenYazdırma.exe.config
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\bin\Debug\KarakterTerstenYazdırma.exe
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\bin\Debug\KarakterTerstenYazdırma.pdb
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.csproj.AssemblyReference.cache
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.exe
+C:\Users\aysey\OneDrive\Masaüstü\KarakterTerstenYazdırma\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.pdb
